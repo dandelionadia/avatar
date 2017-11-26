@@ -1,0 +1,154 @@
+.head {
+	margin: 0 auto;
+	background-color: #EE6363;
+	width: 600px;
+	font-family: Ubuntu;
+}
+
+.hat {
+	display: flex;
+	justify-content: center;
+}
+
+.text {
+	margin-left: 40px;
+	margin-right: 40px;
+	/*margin-bottom: 40px;*/
+	margin-top: 20px;
+	color: white;
+}
+
+
+.text_h1 {
+	border-top: 1px solid white;
+	text-align: center;
+	padding-top: 30px;
+	margin: 30px;
+	margin-top: 0;
+	margin-bottom: 15px;
+}
+
+.text_p {
+	text-align: center;
+	border-top: 0;
+	margin-top: 0;
+	margin-bottom: 0;
+	padding-bottom: 30px;
+	/*width: 558px;*/
+}
+
+.picture_img {
+	padding-top: 13px;
+	padding-right: 5px;
+}
+
+.picture_text {
+	color: white;
+}
+
+.title {
+	background-color: #F5F5F5;
+	width: 600px;
+	margin: 0 auto;
+	padding-top: 20px;
+/*	padding-bottom: 20px;*/
+}
+
+.title_h3 {
+	text-align: center;
+	margin-bottom: 0;
+}
+
+.information {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	background-color: #F5F5F5;
+	width: 600px;
+	margin: 0 auto;
+	border-bottom: 1px solid #BEBEBE;
+	padding-top: 40px;
+}
+
+.bloc_2 {
+	margin-right: 60px;
+	margin-left: 40px;
+}
+
+.bloc_foto {
+	border-radius: 60px;
+	margin-left: 70px;
+	margin-bottom: 30px;
+	margin-right: 10px;
+}
+
+.bloc_text {
+	width: 300px;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+
+.bloc_text_p {
+	color: #8B7D6B;
+	margin-bottom: 0;
+	margin-top: 0;
+}
+
+.button {
+	color: #4F4F4F;
+	width: 170px;
+	padding: 10px;
+	margin-top: 0;
+	border-top: 1px solid #BEBEBE;
+	border-bottom: 1px solid #BEBEBE;
+	border-left: 1px solid #BEBEBE;
+	border-right: 1px solid #BEBEBE;
+	text-decoration: none;
+	display: inline-block;
+	background-color: white;
+	text-align: center;
+}
+
+.bottom {
+	width: 600px;
+	margin: 0 auto;
+	background-color: #F5F5F5;
+}
+
+.pages {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.foto {
+	padding: 5px;
+	margin-top: 30px;
+}
+
+.foto_img {
+	width: 30px;
+	border-radius: 30px;
+}
+
+.podtext_p {
+	text-align: center;
+	margin-top: 0;
+	margin-bottom: 0;
+	color: #4F4F4F;
+}
+
+.force_a {
+	text-align: center;
+	color: #4F4F4F;
+}
+
+.force {
+	text-align: center;
+	padding-bottom: 30px;
+}
+
+.force_p {
+	margin-top: 0;
+}
